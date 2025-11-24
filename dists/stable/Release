@@ -1,0 +1,8 @@
+Origin: kraken
+Label: kraken
+Suite: stable
+Codename: stable
+Date: Mon, 24 Nov 2025 02:14:01 GMT
+Architectures: amd64
+Components: main
+Description: Initial Release
